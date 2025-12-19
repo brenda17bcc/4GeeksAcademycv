@@ -10,7 +10,7 @@ basic_info:
 
     # Your full name
     first_name: Brenda 
-    last_name: Campos
+    last_name : Campos
     
     # Define yourself in 4-5 words
     motto: I like help people
@@ -19,9 +19,8 @@ basic_info:
     focus: health, sport and swim
     
     # You have 1 paragraph to make a great impression, summarize your career
-    summary: |
+    summary: 
       I am a very responsible, active, and multifaceted person. I enjoy teamwork and taking on new challenges. I am passionate about technology and have a knack for learning in record time.
-
       Second paragraph if required.
     
     # Your profile picture URL
